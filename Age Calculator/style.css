@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: white;
+  font-family: "Itim", cursive;
+}
+body {
+  background-color: antiquewhite;
+}
+.container {
+  width: 50%;
+  height: 50vh;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: #06838b;
+  color: rgb(255, 255, 255);
+  margin: 4rem auto;
+}
+h1 {
+  text-align: center;
+  margin: 2rem;
+  text-shadow: 2px 2px 1px rgb(91, 92, 95);
+}
+
+label {
+  font-size: 1.1rem;
+  font-weight: 400;
+  font-size: x-large;
+  text-align: center;
+}
+.ad {
+  margin-left: 10rem;
+}
+
+input {
+  height: 40px;
+  border-radius: 10px;
+  width: 40%;
+  font-size: 1.2rem;
+  margin: 0 auto;
+  background-color: rgb(179, 168, 168);
+}
+#bill {
+  margin-left: 3rem;
+}
+#discount {
+  margin-left: 2rem;
+}
+
+button {
+  width: 25%;
+  padding: 0.7rem;
+  border-radius: 10px;
+  font-size: x-large;
+  color: white;
+  margin-top: 2rem;
+  background-color: rgb(247, 173, 82);
+}
+.btn1 {
+  margin-left: 10rem;
+}
+.btn2 {
+  width: 15%;
+  margin-left: 2rem;
+}
+button:hover {
+    background-color: rgb(83, 83, 82);
+}
+p {
+    margin-top: 2rem;
+    margin-left: 10rem;
+  font-size: 1.6rem;
+}
+
+.icon{
+    margin: 2rem 17rem;
+}
+footer a {
+  font-size: x-large;
+  margin-right: 1rem;
+  text-decoration: none;
+  color: white;
+  margin-top: 1rem;
+}
